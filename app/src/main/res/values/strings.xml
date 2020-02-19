@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Biografia</string>
+    <string name="name">Marcelo Vergara</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio_text">
+
+<b>Experiência</b> \n\n
+Sócio Proprietário\n
+Divina Ceia\n
+abr de 2019 – até o momento11 meses\n\n
+
+Atuação na operação e planejamento para a venda de refeições na modalidade delivery. Coordenação de equipe de 3 entregadores. Gestão das ferramentas IFood e Uber Eats.\n\n
+
+
+Profarma - d1000 Varejo Farma\n
+Coordenador de Infraestrutura de TI\n
+abr de 2017 – abr de 20192 anos 1 mês\n\n
+
+Coordenação de equipe composta por 15 analistas/técnicos. Responsável pela operação de TI de mais de 200 farmácias no estado do Rio de Janeiro e região Centro-Oeste. Atuação visando a disponibilidade de serviços, aplicações e links através de softwares de monitoramento. Suporte a servidores on premise e cloud que rodam aplicações críticas para o negócio (ressuprimento, NF-e, Call Center e TEF). Liderança na implantação do novo software de telefonia VoIP para o Call Center (tecnologia Avaya). Implantação de nova tecnologia de firewall (Aser) e aplicações de PDV (ITEC) em todas as lojas. Administração de ambientes de redes, Active Directory, Office 365 (cloud e-mail Microsoft). Troubleshooting relacionado a problemas de conectividade e de aplicações através da verificação de logs. Criação de scripts para automação de atividades. Foco nos indicadores de SLA da equipe. Uso do framework ITIL para gestão de incidentes e problemas através da customização de ferramentas de chamados. Criação e manutenção de documentação relativa a processos de infraestrutura.\n\n
+
+
+Atos\n
+Gerente de Projetos\n
+out de 2015 – set de 20161 ano\n\n
+
+Planejamento de projeto e suporte a operação da infraestrutura de TI. Participação em eventos teste de Basquete e Bocha paralímpica.
+Participação ativa na alocação de equipamentos de TI (desktops, servidores e equipamentos de rede) para as áreas funcionais. Suporte ao gerente de tecnologia para garantir o andamento correto do planejamento de TI. Atuação junto à área de logística para garantir a entrega e instalação de equipamentos na data acordada com as demais áreas funcionais. Atualização e configuração de sistemas que gerem os ativos de rede através de monitoramento. Garantia do cumprimento de SLAs. Coordenação de equipe composta por 5 analistas. Escalonamento de questões pertinentes aos gestores responsáveis. Nenhum incidente grave registrado durante o período de operação do Velódromo.\n\n
+
+
+SICPA\n
+Coordenador de Infraestrutura\n
+mai de 2015 – out de 20156 meses\n\n
+
+Equipe composta por seis analistas abrangendo as áreas de segurança da informação, telecomunicações (redes de dados e telefonia PABX) e servidores (VMWare, BackupExec, SharePoint e Linux). Atuação na interface entre as áreas corporativas da Suíça e Brasil. Gestão de projetos na implantação de tecnologias diversas, operação de infraestrutura com gestão de incidentes e relacionamento com fornecedores e terceirizados. Administração de circuitos MPLS referente a estudos de viabilidade, instalação, operação e monitoramento.\n\n
+
+
+Fundação Getúlio Vargas\n
+Analista de Segurança da Informação\n
+ago de 2014 – mai de 201510 meses\n\n
+
+Responsável pela gestão dos firewalls da Fundação Getulio Vargas, análise de novos produtos de segurança para redes de computadores, homologação de appliance e documentação. Administração de firewalls Fortigate e atuação em projetos de integração de sistemas com a rede corporativa. Documentação e estruturação da área de segurança da informação no que tange a administração de firewalls e gestão de mudanças.\n\n
+
+
+Estácio Participações\n
+Coordenador de Redes e Telecom\n
+mai de 2010 – mar de 20143 anos 11 meses\n\n
+
+Acompanhamento das solicitações de atendimento encaminhadas através do sistema de chamados garantindo o cumprimento dos processos e prazos de acordo com as diretrizes. Configuração, manutenção e administração das redes de comunicação de dados e voz visando o atendimento das necessidades da organização. Gestão dos ativos de rede das unidades e do Data Center. Monitoramento dos ambientes de rede (links e ativos) visando o diagnóstico de situações que comprometam a disponibilidade, performance e funcionalidade dos serviços. Contribuição para a disponibilidade, segurança e performance do ambiente através da proposição de novas soluções, procedimentos e scripts. Atuação junto a equipe de manutenção na solução de problemas de produção visando buscar a melhor solução dentro do prazo e custo. Foco no funcionamento adequado da infraestrutura física e lógica de rede LAN e WAN. Avaliação de novas soluções para atender as demandas de negócio, participando do processo de novas aquisições de bens e /ou serviços de informática da área de rede e telecom. Coordenação técnica da instalação de novos links e equipamentos. Atuação em conjunto com a área de governança a política de segurança da informação para acesso a internet. Gestão da documentação administrativa e técnica do ambiente. Coordenação das ações da equipe de infraestrutura de rede do Data Center de maneira a garantir a funcionalidade e disponibilidade do ambiente. Acompanhar as equipes terceiras de suporte a telefonia e infraestrutura de rede visando garantir que o escopo contratado está sendo cumprido como o acordado. Realização de reuniões periódicas com os fornecedores que atendem e suportam a infraestrutura de rede de dados e voz objetivando aferir os serviços prestados e otimizando a operação (gestão dos contratos). Realização de visitas para o diagnóstico de rede nas unidades de maneira a garantir a qualidade da entrega dos serviços de telecomunicações.\n\n
+
+
+Value Team (TIM)\n
+Especialista em Redes de Telecomunicações (Consultor)\n
+out de 2009 – mai de 20108 meses\n\n
+
+Monitoração e operação do sistema de verificação da qualidade e billing da operadora TIM. Geração de relatórios e adequações do sistema. Resolução de problemas e troubleshooting relativos a conectividade de rede. Verificação de CDRs da rede de telefonia móvel. Relacionamento tanto com os clientes internos TIM, como com o fornecedor da solução para implantação de demandas e resolução de problemas relacionados à ferramenta de monitoramento (em inglês).\n\n
+
+
+Movile\n
+TIC Support\n
+jun de 2008 – out de 20091 ano 5 meses\n\n
+
+Suporte avançado na operação dos aplicativos VAS (value-added service) atendendo operadoras como TIM, Claro, Vivo e Oi. Manutenção de servidores no data center ALOG no Rio de Janeiro. Administração das regras de firewall e políticas de acesso referentes as aplicações WEB. Responsável pela plataforma de software livre da empresa (Linux, MySQL, Resin, Tomcat, Qmail e Nagios), além de trabalhar na análise de problemas com softwares desenvolvidos pela empresa em conjunto com parceiros. Suporte à rede TCP/IP e intercomunicação WAN. Análise de logs visando a continuidade do negócio.\n\n
+
+
+<b>Formação acadêmica\n</b>\n\n
+Instituto InfnetInstituto Infnet\n
+Análise e Desenvolvimento de SoftwareInformation Technology\n
+2019 – 2022\n\n
+
+Fundação Getulio VargasFundação Getulio Vargas\n
+MBAGerência Estratégica de TI\n
+2012 – 2013\n\n
+
+
+Universidade Federal do Rio de JaneiroUniversidade Federal do Rio de Janeiro\n
+Masters Network\n
+2006 – 2007\n\n
+
+Senac RJ\n
+B.TechComputer Network\n
+2003 – 2005\n\n
+
+    </string>
+    <string name="imagem">imagem</string>
+</resources>
