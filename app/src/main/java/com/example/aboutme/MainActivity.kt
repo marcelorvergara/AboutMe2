@@ -8,6 +8,7 @@ import android.view.inputmethod.InputMethodManager
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -15,24 +16,22 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        findViewById<Button>(R.id.done_button).setOnClickListener {
+        done_button.setOnClickListener {
             addNickname(it)
             }
-        findViewById<TextView>(R.id.nickname_text).setOnClickListener {
+        nickname_text.setOnClickListener {
             updateNickname(it)
             }
     }
 
     private fun addNickname(view: View) {
-        val editText = findViewById<EditText>(R.id.nickname_edit)
-        val nicknameTextView = findViewById<TextView>(R.id.nickname_text)
 
-        nicknameTextView.text = editText.text
 
-        editText.visibility = View.GONE
+        nickname_text.text = nickname_edit.text
+
+        nickname_edit.visibility = View.GONE
         view.visibility = View.GONE
-
-        nicknameTextView.visibility = View.VISIBLE
+        nickname_text.visibility = View.VISIBLE
 
         // Hide the keyboard.
         val inputMethodManager = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
@@ -41,19 +40,16 @@ class MainActivity : AppCompatActivity() {
 
     private fun updateNickname (view: View) {
 
-        val editText = findViewById<EditText>(R.id.nickname_edit)
-        val doneButton = findViewById<Button>(R.id.done_button)
-
-        editText.visibility = View.VISIBLE
-        doneButton.visibility = View.VISIBLE
+        nickname_edit.visibility = View.VISIBLE
+        done_button.visibility = View.VISIBLE
         view.visibility = View.GONE
 
         // Set the focus to the edit text.
-        editText.requestFocus()
+        nickname_edit.requestFocus()
 
         // Show the keyboard.
         val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
-        imm.showSoftInput(editText, 0)
+        imm.showSoftInput(nickname_edit, 0)
 
     }
 }
